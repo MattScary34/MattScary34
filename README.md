@@ -17,7 +17,8 @@ Malware development, stealth injection, kernel-mode rootkits, and building custo
 🎓 Certifications:
 `eJPT`, `GSEC`, `Maldev Academy`(soon), `GCIH`(soon)
 
-📝 Blog & Content
+📝 Blog & Content:
+
 I regularly share my work on malware development, low-level system internals, and red teaming techniques through detailed write-ups, project documentation, and tool development logs.
 
 Follow my journey in offensive security on:
