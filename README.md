@@ -28,6 +28,6 @@ Follow my journey in offensive security on:
 Whether it’s building custom tooling, experimenting with evasion techniques, or documenting reverse engineering workflows, my goal is to share practical, real-world insights as I grow in the cybersecurity field.
 
 
-`👨‍💻` ## Languages/Tools:
+`👨‍💻` ##Languages/Tools:
 ---
 [![My Skills](https://skillicons.dev/icons?i=c,java,bash,ansible,aws,azure,docker,ai,kali,linux,mint,obsidian,postman,py,redhat,vscode,vim,windows)](https://skillicons.dev)
