@@ -30,4 +30,4 @@ Whether it’s building custom tooling, experimenting with evasion techniques, o
 
 `👨‍💻` ## Languages/Tools:
 ---
-[![My Skills](https://skillicons.dev/icons?i=c,c++,java,bash,ansible,aws,azure,docker,ai,kali,linux,mint,obsidian,postman,py,redhat,vscode,vim,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,bash,ansible,aws,azure,docker,ai,kali,linux,mint,obsidian,postman,py,redhat,vscode,vim,windows)](https://skillicons.dev)
