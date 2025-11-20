@@ -15,7 +15,7 @@ Malware development, stealth injection, kernel-mode rootkits, and building custo
 
 
 🎓 Certifications:
-`eJPT`, `GSEC`, `Maldev Academy`(soon), `GCIH`(soon)
+`eJPT`, `GSEC`, `Maldev Academy`(soon), `GCIH`
 
 📝 Blog & Content:
 
